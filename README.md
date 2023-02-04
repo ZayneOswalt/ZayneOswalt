@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zayne, an <a href="https://linkedin.com/in/zayne-oswalt-5512a0262">IT Professional</a>☺</h1>
+<h1>Hi, I'm Zayne, an aspiring <a href="https://linkedin.com/in/zayne-oswalt-5512a0262">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
